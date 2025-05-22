@@ -1,0 +1,2 @@
+lino_msgs:lino_pid:lino_visualize:linorobot
+-DCATKIN_DEVEL_PREFIX=/home/tiec/Desktop/lino_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tiec/Desktop/lino_ws/install -G Unix Makefiles
